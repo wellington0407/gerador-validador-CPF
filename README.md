@@ -2,7 +2,7 @@
 
 ### Rodando o Validador:
 
-python validar_cpf.py
+python validar_cpf.py\n
 Digite um CPF :
 
 
