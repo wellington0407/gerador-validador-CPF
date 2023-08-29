@@ -8,4 +8,4 @@ Digite um CPF :
 
 
 ### Rodando o Gerador:
-python gerarr_cpf.py
+python gerar_cpf.py
