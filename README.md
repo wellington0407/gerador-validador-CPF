@@ -1,5 +1,4 @@
-# gerador-validador-CPF
-Validador e gerador de CPF
+# Gerador e Validador de CPF
 
 ###Rodando o Validador:
 
